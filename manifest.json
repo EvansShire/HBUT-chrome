@@ -1,0 +1,22 @@
+{
+	"name": "HBUT",
+	"manifest_version": 2,
+	"version": "1.0",
+	"description": "login hbut",
+    
+    "browser_action": {
+        "default_icon": "images/logo.png",
+        "default_title": "HBUT",
+		"defult_popup":"html/test.html"
+    },
+    
+    "background": {
+        "presistent": true,
+        "scripts": ["js/main.js" ]
+    },
+    
+    "permissions":[
+	"http://run.hbut.edu.cn/"
+	]
+    
+}
