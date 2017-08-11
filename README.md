@@ -7,3 +7,7 @@
  
  纯粹用于学习用途 处于 安全考虑没有公开学校教务系统接口 如有湖北工业大学校友可与本人联系交流 。
  
+manifert.jost   
+  配置google chrome插件跨域访问权限 默认调用哪个js文件等
+js/main。js
+ 默认被调用的js，跳转到index.js
